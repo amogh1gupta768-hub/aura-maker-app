@@ -1,0 +1,6 @@
+{
+  "name": "Aura Maker App",
+  "description": "Comprehensive fitness tracking, progress telemetry, nutrition & hydration logging, AI muscle & equipment concentration coach with no-machine alternatives, wearable synchronization, and high-accessibility controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
